@@ -4,7 +4,7 @@ Repository for Assignment 1 - Unity Basics
 Scene 1 - Unity Primitives
 This is a scene using 4 different types of primitives: cubes, spheres, cylinders, and planes. I recreated a castle using cubes and cylinders, a UFO created from spheres, and grass from a plane.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/ejs6637/Assignment1-UnityBasics/blob/main/Scene%201%20Unity%20Primitives.png)
 
 Scene 2 - Maze with Character Controller
 This is a scene that displays a top-down view of a maze, with the cylinder acting as the character controller. You can navigate through the maze and fall off the plane to escape it.
