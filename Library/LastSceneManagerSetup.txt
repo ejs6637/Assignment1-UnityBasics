@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Assignments/Unity Basics/Scene 3 - VR 360 Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
